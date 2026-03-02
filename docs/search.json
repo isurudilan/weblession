@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "hello.html",
+    "href": "hello.html",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "hello.html#meet-quarto",
+    "href": "hello.html#meet-quarto",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "hello.html#meet-the-penguins",
+    "href": "hello.html#meet-the-penguins",
+    "title": "Hello, Quarto",
+    "section": "Meet the penguins",
+    "text": "Meet the penguins\n\nThe penguins data from the palmerpenguins package contains size measurements for 344 penguins from three species observed on three islands in the Palmer Archipelago, Antarctica.\nThe plot below shows the relationship between flipper and bill lengths of these penguins."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "web",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nThis is a how to embed video\n\nthis is video"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Isuru Dassanayake is an Assistant Professor of Statistics at George Mason University, Fairfax, VA, USA. He received his PhD in Mathematics majoring in Statistics and a Master of Science in Statistics from Texas Tech University.\nHis research interests include Machine Learning, Statistics Computing, Heteroscedastic Mixed Effects Models, Spatial data analysis, Bayesian Statistics, and High dimensional data analysis. His dissertation was mainly focused on Exploring Social and Economic Predictors for US Government Elections using advanced Statistical Modeling and Machine Learning techniques (including Neural Networks and Data Visualization tools: ggplot, Tableau, Plotly, etc) to investigate the capacity to maintain the stability of the United States Government after an election.\nPrior to joining George Mason University, he worked as a Graduate Part-Time instructor at Texas Tech University and as a Lecturer at the University of Peradeniya, Sri Lanka. He teaches probability & statistics for engineering and scientists 1 (STAT344) and applied statistics & visualization for analytics (STAT515).\n\n\nPhD, Mathematics with a concentration in Statistics, Texas Tech University\nMS, Statistics, Texas Tech University\nBS, Statistics, University Peradeniya, Sri Lanka\n\n\n\nMachine Learning, Statistics Computing, Heteroscedastic Mixed Effects Models, Spatial data analysis, Bayesian Statistics, High dimensional data analysis\n\n\n\nCampus: Fairfax\nBuilding: Nguyen Engineering Building Room 1727 Mail Stop: 4A7\n\n \n  \n   \n  \n    \n     LinkedIn\n  \n  \n    \n     Email"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "PhD, Mathematics with a concentration in Statistics, Texas Tech University\nMS, Statistics, Texas Tech University\nBS, Statistics, University Peradeniya, Sri Lanka"
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About Me",
+    "section": "",
+    "text": "Machine Learning, Statistics Computing, Heteroscedastic Mixed Effects Models, Spatial data analysis, Bayesian Statistics, High dimensional data analysis"
+  },
+  {
+    "objectID": "about.html#contact-information",
+    "href": "about.html#contact-information",
+    "title": "About Me",
+    "section": "",
+    "text": "Campus: Fairfax\nBuilding: Nguyen Engineering Building Room 1727 Mail Stop: 4A7"
+  }
+]
